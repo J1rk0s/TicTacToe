@@ -1,0 +1,7 @@
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.pdb
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.csproj.AssemblyReference.cache
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.csproj.CoreCompileInputs.cache
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.exe
+C:\Users\jiriv\RiderProjects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.pdb
